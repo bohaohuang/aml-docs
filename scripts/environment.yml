@@ -1,0 +1,14 @@
+name: tf-aml
+dependencies:
+- python=3.6
+- numpy
+- pandas
+- matplotlib
+- scipy
+- scikit-learn
+- ipython
+- six
+- future
+- pip
+- tqdm
+- rasterio
