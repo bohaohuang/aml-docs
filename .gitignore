@@ -102,3 +102,5 @@ ENV/
 
 # temp files
 *~
+# pycharm files
+.idea*
