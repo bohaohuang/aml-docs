@@ -6,6 +6,7 @@ dependencies:
 - matplotlib
 - scipy
 - scikit-learn
+- scikit-image
 - ipython
 - six
 - future
